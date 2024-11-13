@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shayan Nazar</h1>
-<h3 align="center">DevOps Engineer & Infrastructure as Code Specialist</h3>
+<h3 align="center">DevOps Engineer & Cloud Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5610AQF7HNSr3cQP7w/image-shrink_800/image-shrink_800/0/1702949430108?e=2147483647&v=beta&t=bU3Vpr-9LFL1kNb9J5ttsKPcQlRtCplal9jf3__pW2k">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyrradev&label=Profile%20views&color=0e75b6&style=flat" alt="shyrradev" /> </p>
 
