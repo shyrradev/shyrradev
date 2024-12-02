@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MultiModel AI Agents, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://shayannazar.vercel.app/](https://shayannazar.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shayannazar.vercel.app/](https://shayanops.net)
 
 - 📝 I regularly write articles on [https://medium.com/@shyrradev](https://medium.com/@shyrradev)
 
